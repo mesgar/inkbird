@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/alirezamesgar/dev/ios/inkbird/inkbird.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:inkbird.xcodeproj">
+   </FileRef>
+</Workspace>
