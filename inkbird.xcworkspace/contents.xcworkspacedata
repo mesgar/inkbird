@@ -8,9 +8,6 @@
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/alirezamesgar/dev/ios/inkbird/inkbird.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:inkbird.xcodeproj">
    </FileRef>
 </Workspace>
