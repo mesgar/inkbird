@@ -8,7 +8,7 @@
 
 イメージ図
 
-![イメージ図](https://github.com/mesgar/inkbird/blob/main/IMG_3693.PNG?raw=true)
+![イメージ図](https://github.com/mesgar/inkbird/blob/main/image.png?raw=true)
 
 ## Build
 1. git clone https://github.com/mesgar/inkbird/ inkbird</br>
